@@ -1,0 +1,2 @@
+5885bed0a68062b733b0811bcaae6aa8abff435f41a068786079c97272eb1fb4  my-first-contract.wasm
+96e985c624f7478ecf95ac50896b274b7743fe6545d191e8ecd7aea27583bbf6  my_first_contract-aarch64.wasm
